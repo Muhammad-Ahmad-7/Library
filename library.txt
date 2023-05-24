@@ -1,0 +1,8 @@
+1,OOP,Shahid,6
+2,DSA,Bilal,12
+3,PF,Zaheer,5
+4,ICT,Tahir,5
+5,Dld,Jawad,9
+6,Communication,Ayesha,6
+7,Discrete,Iqra,10
+8,Quran,kunzulImaan,3

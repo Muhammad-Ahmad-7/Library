@@ -1,0 +1,5 @@
+5,Dld,Jawad,3
+6,Communication,Ayesha,4
+7,Discrete,Iqra,6
+2,DSA,Bilal,4
+3,PF,Zaheer,2
